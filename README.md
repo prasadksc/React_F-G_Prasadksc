@@ -1,1 +1,2 @@
-# React_F-G_Prasadksc
+please install the app using npm start 
+
